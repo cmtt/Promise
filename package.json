@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "0.0.1",
+  "description": "Just another promise implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cmtt/Promise.git"
+  },
+  "author": "Matthias Thoemmes <git@gmx.org>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0"
+  }
+}
